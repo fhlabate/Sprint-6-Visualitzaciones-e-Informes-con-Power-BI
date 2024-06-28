@@ -1,1 +1,3 @@
-# Sprint-6-Visualitzacions-i-Informes-amb-Power-BI
+# Sprint 6 Visualitzacions i Informes amb Power BI
+
+En aquest mòdul avançat de Power BI, portaràs les teves habilitats al següent nivell en aprofundir en l'ús de Data Analysis Expressions (DAX) i dominar la varietat de visualitzacions disponibles per a crear informes interactius i atractius. Al llarg d'aquest sprint, adquiriràs habilitats avançades per a dissenyar informes que facilitin la presa de decisions informada, comprenent la importància crítica de la presentació efectiva de dades en Power BI. A més, exploraràs com publicar informes per a compartir i col·laborar en projectes amb col·legues i parts interessades.
