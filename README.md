@@ -4,7 +4,7 @@ En aquest mòdul avançat de Power BI, portaràs les teves habilitats al següen
 
 # Dashboards finals
 
-![image](https://github.com/user-attachments/assets/85cf4905-515f-45fb-bd21-6925ff60e3d3)
+![image](https://github.com/user-attachments/assets/d3d40cc2-87d5-41df-bb9c-b5f7b81728a6)
 
 ![image](https://github.com/user-attachments/assets/0348c406-9f2c-4ef8-b824-3e1f3435c9d3)
 
